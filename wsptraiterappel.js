@@ -6,8 +6,8 @@
 // @author       Alexis.sair
 // @match        https://wspharma.odoo.com/*
 // @match        http://wspharma.odoo.com/*
-// @updateURL    https://raw.githubusercontent.com/lax3is/Script-odoo/refs/heads/main/Bouton Traiter l'Appel Odoo.js
-// @downloadURL  https://raw.githubusercontent.com/lax3is/Script-odoo/refs/heads/main/Bouton Traiter l'Appel Odoo.js
+// @updateURL    https://raw.githubusercontent.com/lax3is/Wsp/refs/heads/main/wsptraiterappel.js
+// @downloadURL  https://raw.githubusercontent.com/lax3is/Wsp/refs/heads/main/wsptraiterappel.js
 // @grant        none
 // ==/UserScript==
 
